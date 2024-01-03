@@ -3,7 +3,7 @@ name: Account created or deleted by non-approved user
 description: |
   'Identifies accounts that were created or deleted by a defined list of non-approved user principal names. Add to this list before running the query for accurate results.
   Ref : https://docs.microsoft.com/azure/active-directory/fundamentals/security-operations-user-accounts'
-severity: Medium
+severity: High
 requiredDataConnectors:
   - connectorId: AzureActiveDirectory
     dataTypes:
