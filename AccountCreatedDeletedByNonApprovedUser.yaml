@@ -1,4 +1,4 @@
-id: 6d63efa6-7c25-4bd4-a486-aa6bf50fde8a
+id: fd687477-3b85-4da5-898f-c64130be95d0
 name: Account created or deleted by non-approved user
 description: |
   'Identifies accounts that were created or deleted by a defined list of non-approved user principal names. Add to this list before running the query for accurate results.
