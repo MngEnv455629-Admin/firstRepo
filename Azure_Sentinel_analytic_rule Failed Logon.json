@@ -16,7 +16,7 @@
             "properties": {
                 "displayName": "Failed Windows logon events",
                 "description": "",
-                "severity": "Medium",
+                "severity": "High",
                 "enabled": true,
                 "query": "SecurityEvent\r\n| where EventID == 4625",
                 "queryFrequency": "PT5M",
