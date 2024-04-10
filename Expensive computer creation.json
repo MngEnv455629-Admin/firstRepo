@@ -12,8 +12,8 @@
       ]
     }
   ],
-  "queryFrequency": "2h",
-  "queryPeriod": "2h",
+  "queryFrequency": "4h",
+  "queryPeriod": "4h",
   "triggerOperator": "gt",
   "triggerThreshold": 1,
   "tactics": [
